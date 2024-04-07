@@ -7,6 +7,7 @@ In this project, I focused on analyzing Twitter trends in the US related to Covi
 **Key Objectives** <br>
 **Twitter US Trends Analytics (Covid19):** <br>
 Analyzed trends and discussions around Covid19 based on Twitter data.
+ <br>
 **Facebook Graph Network Analysis (Social Circles):** <br>
 Conducted network analysis on Facebook data to understand social circles and connections.
 
