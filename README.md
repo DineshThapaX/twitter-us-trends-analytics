@@ -12,3 +12,5 @@ Analyzed trends and discussions around Covid19 based on Twitter data.
 Conducted network analysis on Facebook data to understand social circles and connections.
 
 This project provides insights into social media analytics and visualization, showcasing methodologies used to extract valuable information from Twitter and Facebook data.
+<br>
+**You can refer to the presentation file to see the project's outcomes and findings.**
